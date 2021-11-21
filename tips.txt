@@ -1,0 +1,19 @@
+urls
+https://gorest.co.in/public/v1/users	2317
+https://gorest.co.in/public/v1/posts	1256
+https://gorest.co.in/public/v1/comments	1867
+https://gorest.co.in/public/v1/todos	1799
+
+Trying it Out
+POST /public/v1/users	Create a new user
+GET /public/v1/users/123	Get user details
+PUT|PATCH /public/v1/users/123	Update user details
+DELETE /public/v1/users/123	Delete user
+
+
+create new hashmap as
+name
+gender
+email
+status
+
